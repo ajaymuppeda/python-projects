@@ -1,7 +1,7 @@
 This is used to help to write a tables 
 first we have to give a number to it in the code than it ill print the number table up to 10 times 
 
-
+```py
 For example
 
 8 x 1 = 8
@@ -14,3 +14,4 @@ For example
 8 x 8 = 64
 8 x 9 = 72
 8 x 10 = 80
+```
