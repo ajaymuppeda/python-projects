@@ -1,8 +1,8 @@
 This is used to help to write a tables 
 first we have to give a number to it in the code than it ill print the number table up to 10 times 
-
-```py
 For example
+```py
+
 
 8 x 1 = 8
 8 x 2 = 16
