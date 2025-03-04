@@ -1,5 +1,5 @@
 This will shoe the factors of the give numbers
-For example
+### For example    
 ```py 
 
 

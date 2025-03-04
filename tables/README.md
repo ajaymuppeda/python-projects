@@ -1,6 +1,6 @@
 This is used to help to write a tables 
 first we have to give a number to it in the code than it ill print the number table up to 10 times 
-For example
+### For example    
 ```py
 
 

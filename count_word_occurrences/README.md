@@ -1,6 +1,6 @@
 This program is help to count the numbers of words in paragraph  
 It will also tell a word how many time does it repeats
-For example 
+### For example    
 ```py  
 
 
